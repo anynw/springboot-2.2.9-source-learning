@@ -27,6 +27,13 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<!--		自定义 starter-->
+		<dependency>
+			<groupId>com.wuhp</groupId>
+			<artifactId>zdy-spring-boot-starter</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>
